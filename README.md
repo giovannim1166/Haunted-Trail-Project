@@ -1,1 +1,1 @@
-#Haunted Trail 
+#Haunted trail
