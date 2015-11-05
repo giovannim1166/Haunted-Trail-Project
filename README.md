@@ -6,4 +6,4 @@
 
 ###or
 
-[right trail](chased-by-zombies.md)
+[right trail](chased-by-zombie.md)

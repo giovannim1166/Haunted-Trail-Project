@@ -4,4 +4,4 @@
 
 or
 
-[turn around](ghost-kills-you)
+[turn around](ghost-kills-you.md)
