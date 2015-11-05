@@ -1,3 +1,3 @@
 ghost was behind you , so you died 
 
-[RIP](README.md)
+[R.I.P](README.md)
