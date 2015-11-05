@@ -1,2 +1,2 @@
-# You died !
-[you died](haunted-trail.md)
+### You tripped over a rock and died !
+[tripped and died](haunted-trail.md)
