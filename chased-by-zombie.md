@@ -1,4 +1,4 @@
-###A horde of zombies heard you and are chasing you do you
+###A horde of zombies heard you and are chasing you, do you
 
 [run to lake](lake.md)
 
