@@ -1,6 +1,6 @@
 ###You've been running fast do you
 
-[take a break]
+[take a break](zombie-eats-you)
 
 ### or
 
