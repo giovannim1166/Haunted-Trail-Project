@@ -1,2 +1,2 @@
 ### Zombie trips over and you survive ... 
-[Try to survive again](README.MD)
+[Try to survive again](README.md)
