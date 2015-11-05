@@ -1,2 +1,2 @@
-### you drowned and died 
+### You drowned and died!
 [R.I.P](README.md)
