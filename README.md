@@ -3,5 +3,7 @@
 
 ###Do you take the ...
 [left trail](found-corpse.md])  
+
 ###or
+
 [right trail](chased-by-zombies)
